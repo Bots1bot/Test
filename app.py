@@ -101,6 +101,6 @@ if predict_button:
 
 st.write("---")
 st.markdown(
-    "<p style='text-align:center; color:gray;'>Developed with ❤️ using Machine Learning</p>",
+    "<p style='text-align:center; color:gray;'>Developed by Kelompok 3 using Machine Learning</p>",
     unsafe_allow_html=True
 )
